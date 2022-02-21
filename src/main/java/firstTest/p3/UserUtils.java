@@ -1,4 +1,4 @@
-package firstTest.p2;
+package firstTest.p3;
 
 public class UserUtils {
     public boolean getCorrectUser(String user){
