@@ -1,0 +1,15 @@
+9.1)    Se quiere implementar un método que ayude a verificar el
+        porcentaje de descuento que se aplica a un salario basados
+        en el salario básico; tomando en cuenta que el salario
+        básico es 2000bs.
+
+        -- Si el sueldo es menor o igual al salario básico no se
+           aplica ningún tipo de descuento.
+        -- Si el sueldo es mayor al salario básico el descuento
+           es del 5%.
+        -- Si el sueldo es mayor que el doble del salario básico
+           el descuento es del 15%.
+
+        Cuando el salario no es válido se lanza una exception
+
+        Aplicar el Boundary Test
