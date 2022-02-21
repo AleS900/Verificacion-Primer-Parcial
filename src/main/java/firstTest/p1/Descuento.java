@@ -8,7 +8,7 @@ public class Descuento {
         } else if (salario > 0 && salario <= 2000){
             msg = "El sueldo es menor o igual que el salario mínimo el salario actual es: " + salario;
         }else if(salario >= 2001 && salario <= 4000){
-            msg = "El sueldo es mayor que el salario mínimo el salario actual es: " + (salario * 0.95);
+            msg = "El sueldo es mayor que el salario mínimo el salario actual es: " + Math.ceil(salario * 0.95);
         }else {
             msg = "El sueldo es mayor que el doble del salario mínimo el salario actual es: " + (salario * 0.85);
         }
