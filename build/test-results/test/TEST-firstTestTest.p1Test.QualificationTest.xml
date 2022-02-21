@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="firstTestTest.p1Test.QualificationTest" tests="37" skipped="0" failures="0" errors="0" timestamp="2022-02-21T10:36:50" hostname="SANTIAGO" time="0.189">
+  <properties/>
+  <testcase name="[1] -1, La calificacion ingresada no es correcta ingrese el valor nuevamente" classname="firstTestTest.p1Test.QualificationTest" time="0.109"/>
+  <testcase name="[2] 0, Esfuerzate un poco mas tu calificacion es: 0" classname="firstTestTest.p1Test.QualificationTest" time="0.006"/>
+  <testcase name="[3] 1, Esfuerzate un poco mas tu calificacion es: 1" classname="firstTestTest.p1Test.QualificationTest" time="0.002"/>
+  <testcase name="[4] 29, Esfuerzate un poco mas tu calificacion es: 29" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[5] 30, Esfuerzate un poco mas tu calificacion es: 30" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[6] 31, Esfuerzate un poco mas tu calificacion es: 31" classname="firstTestTest.p1Test.QualificationTest" time="0.002"/>
+  <testcase name="[7] 59, Esfuerzate un poco mas tu calificacion es: 59" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[8] 60, Esfuerzate un poco mas tu calificacion es: 60" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[9] 61, Lo hiciste bien pero puedes esforzarte un poco mas tu calificacion es: 61" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[10] 62, Lo hiciste bien pero puedes esforzarte un poco mas tu calificacion es: 62" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[11] 64, Lo hiciste bien pero puedes esforzarte un poco mas tu calificacion es: 64" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[12] 65, Lo hiciste bien pero puedes esforzarte un poco mas tu calificacion es: 65" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[13] 66, Lo hiciste bien pero puedes esforzarte un poco mas tu calificacion es: 66" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[14] 69, Lo hiciste bien pero puedes esforzarte un poco mas tu calificacion es: 69" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[15] 70, Lo hiciste bien pero puedes esforzarte un poco mas tu calificacion es: 70" classname="firstTestTest.p1Test.QualificationTest" time="0.0"/>
+  <testcase name="[16] 71, Felicitaciones lo hiciste bien tu calificacion es: 71" classname="firstTestTest.p1Test.QualificationTest" time="0.002"/>
+  <testcase name="[17] 72, Felicitaciones lo hiciste bien tu calificacion es: 72" classname="firstTestTest.p1Test.QualificationTest" time="0.0"/>
+  <testcase name="[18] 74, Felicitaciones lo hiciste bien tu calificacion es: 74" classname="firstTestTest.p1Test.QualificationTest" time="0.0"/>
+  <testcase name="[19] 75, Felicitaciones lo hiciste bien tu calificacion es: 75" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[20] 76, Felicitaciones lo hiciste bien tu calificacion es: 76" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[21] 79, Felicitaciones lo hiciste bien tu calificacion es: 79" classname="firstTestTest.p1Test.QualificationTest" time="0.0"/>
+  <testcase name="[22] 80, Felicitaciones lo hiciste bien tu calificacion es: 80" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[23] 81, Felicitaciones lo hiciste muy bien tu calificacion es: 81" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[24] 82, Felicitaciones lo hiciste muy bien tu calificacion es: 82" classname="firstTestTest.p1Test.QualificationTest" time="0.0"/>
+  <testcase name="[25] 85, Felicitaciones lo hiciste muy bien tu calificacion es: 85" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[26] 86, Felicitaciones lo hiciste muy bien tu calificacion es: 86" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[27] 87, Felicitaciones lo hiciste muy bien tu calificacion es: 87" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[28] 89, Felicitaciones lo hiciste muy bien tu calificacion es: 89" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[29] 90, Felicitaciones lo hiciste muy bien tu calificacion es: 90" classname="firstTestTest.p1Test.QualificationTest" time="0.0"/>
+  <testcase name="[30] 91, Felicitaciones excelente sigue asi tu calificacion es: 91" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[31] 92, Felicitaciones excelente sigue asi tu calificacion es: 92" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[32] 95, Felicitaciones excelente sigue asi tu calificacion es: 95" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[33] 96, Felicitaciones excelente sigue asi tu calificacion es: 96" classname="firstTestTest.p1Test.QualificationTest" time="0.001"/>
+  <testcase name="[34] 97, Felicitaciones excelente sigue asi tu calificacion es: 97" classname="firstTestTest.p1Test.QualificationTest" time="0.0"/>
+  <testcase name="[35] 99, Felicitaciones excelente sigue asi tu calificacion es: 99" classname="firstTestTest.p1Test.QualificationTest" time="0.0"/>
+  <testcase name="[36] 100, Felicitaciones excelente sigue asi tu calificacion es: 100" classname="firstTestTest.p1Test.QualificationTest" time="0.0"/>
+  <testcase name="[37] 101, La calificacion ingresada no es correcta ingrese el valor nuevamente" classname="firstTestTest.p1Test.QualificationTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
