@@ -4,8 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76e4f856-31b0-499b-9e70-56b97f33c87b" name="Changes" comment="Segundo Commit">
+    <list default="true" id="76e4f856-31b0-499b-9e70-56b97f33c87b" name="Changes" comment="Ultimo Commit">
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/firstTest/p1/Descuento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/firstTest/p2/PermisoUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/firstTest/p2/Permisos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/firstTest/p2/UserUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/p1Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/p2Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/p3Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/p2Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-p2Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/firstTest/p2/Permisos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/firstTest/p3/PermisoUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/firstTest/p3/Permisos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/firstTest/p3/UserUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.bin" afterDir="false" />
@@ -19,6 +33,7 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/firstTest/p2/PermisoUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstTest/p2/PermisoUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/firstTest/p2/UserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstTest/p2/UserUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/p2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/p2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/p3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/p3Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +107,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/firstTest/p3" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -103,11 +118,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\santi\git_repo\Verificacion-Primer-Parcial\src\main\java\firstTest\p3" />
       <recent name="C:\Users\santi\git_repo\VSI-Test\src\main\java\firstTest\p3" />
       <recent name="C:\Users\santi\git_repo\VSI-Test\src\main\java\firstTest\p2" />
       <recent name="C:\Users\santi\git_repo\VSI-Test\src\test\java\firstTestTest\p2Test" />
       <recent name="C:\Users\santi\git_repo\VerificacionSI\src\test\java" />
-      <recent name="C:\Users\santi\git_repo\VerificacionSI\src\main\java\withoutUnitTest" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\santi\git_repo\VerificacionSI\src\main\java" />
@@ -320,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645447265018</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Ultimo Commit">
+      <created>1645449573810</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1645449573810</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -342,7 +364,8 @@
     <MESSAGE value="Test Creation" />
     <MESSAGE value="Primer Commit" />
     <MESSAGE value="Segundo Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Segundo Commit" />
+    <MESSAGE value="Ultimo Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ultimo Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -366,7 +389,7 @@
     <SUITE FILE_PATH="coverage/unitTest$QualificationTest.ic" NAME="QualificationTest Coverage Results" MODIFIED="1645430759920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/unitTest$CalculadoraMockTest.ic" NAME="CalculadoraMockTest Coverage Results" MODIFIED="1645436042814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/unitTest$p1Test.ic" NAME="p1Test Coverage Results" MODIFIED="1645447165887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/unitTest$p2Test.ic" NAME="p2Test Coverage Results" MODIFIED="1645449003092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/unitTest$p2Test.ic" NAME="p2Test Coverage Results" MODIFIED="1645449203016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/unitTest$MoneyTest.ic" NAME="MoneyTest Coverage Results" MODIFIED="1645213058761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/unitTest$Calculadora2Test__1_.ic" NAME="Calculadora2Test (1) Coverage Results" MODIFIED="1645430057001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/unitTest$CalculatorMockTest.ic" NAME="CalculatorMockTest Coverage Results" MODIFIED="1645435181347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
